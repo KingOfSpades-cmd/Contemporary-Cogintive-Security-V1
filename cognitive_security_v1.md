@@ -258,3 +258,5 @@ The question is not whether we can afford to implement cognitive security measur
 ---
 
 *Contemporary Cognitive Security v1 - A living document for the preservation of human cognitive autonomy in the Age of AI*
+
+*Made in collaboration with Claude 4 Sonnet*
