@@ -34,9 +34,6 @@ This repository contains a comprehensive analysis of:
 
 **[→ Contemporary Cognitive Security v1: The Complete Framework](cognitive_security_v1.md)**
 
-
-*This document represents potentially one of the last comprehensive analyses of cognitive security threats written before AI influence becomes too pervasive to allow for objective assessment.*
-
 ## 🚨 Call to Action
 
 **If you care about preserving human cognitive autonomy:**
